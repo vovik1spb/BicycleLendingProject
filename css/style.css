@@ -366,6 +366,10 @@ h6 {
 }
 
 .about__image {
+  width: 52px;
+  height: 43px;
+  -o-object-fit: cover;
+     object-fit: cover;
   margin-bottom: 34px;
 }
 
