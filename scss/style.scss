@@ -1161,6 +1161,7 @@ h6 {
         display: inline-block;
         width: 35px;
         height: 32px;
+        transition: all 0.3s ease-in-out;
 
         &::before {
             content: '';

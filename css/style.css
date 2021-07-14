@@ -1430,6 +1430,8 @@ h6 {
   display: inline-block;
   width: 35px;
   height: 32px;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .footer__link::before {
